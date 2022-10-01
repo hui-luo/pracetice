@@ -1,4 +1,4 @@
-# pracetice
+# practice
 for study
 package Hanoi;
 
